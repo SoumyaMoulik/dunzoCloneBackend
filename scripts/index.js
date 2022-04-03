@@ -50,4 +50,5 @@ document.getElementById("logo").addEventListener("click", hello);
                     localStorage.setItem("location",JSON.stringify(input));
                 } 
             }
+                showData()
             }
