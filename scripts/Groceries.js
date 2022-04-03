@@ -62,8 +62,10 @@ document.getElementById("logo").addEventListener("click", hello);
             window.location.href = "./index.html"
         }
 
-//fetch api    -------------------- aws api ------------------------------
-let url = `http://ec2-35-89-65-29.us-west-2.compute.amazonaws.com:5000/u`;
+
+        //fetch api   ---------------------- AWS Api ----------------------------------
+let url = `http://ec2-54-218-106-180.us-west-2.compute.amazonaws.com:2345/u`;
+
 async function FetchApi(){
     try {
         
