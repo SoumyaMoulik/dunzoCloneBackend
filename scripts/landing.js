@@ -87,11 +87,12 @@ if(pin1[pin1.length-1] == otp2){
     btn1.style.display="inherit"
     btn2.style.display="none"
     alert('Yay! Login Successfull')
-    window.location.href=`./index.html`
+    window.location.href=`./landing.html`
     newModal.style.display = "none";
     }
     else{
         alert('OTP Provided by You is Invalid')
+        
     }
 }
 
