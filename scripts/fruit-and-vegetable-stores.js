@@ -186,7 +186,7 @@ document.getElementById("search").addEventListener("click",refer);
         if(localStorage.getItem("location")!=null){
         var data = JSON.parse(localStorage.getItem("location"));
         document.getElementById("location").innerHTML=data;
-        document.getElementById("location1").innerHTML=`Groceries & Essentials in ${data}`
+        document.getElementById("location1").innerHTML=`Fruits & Vegetables in ${data}`
     }
 }
     showData();
