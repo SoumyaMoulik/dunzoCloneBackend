@@ -62,7 +62,7 @@ document.getElementById("logo").addEventListener("click", hello);
             window.location.href = "./index.html"
         }
 
-//fetch api    -------------------- aws api ------------------------------
+//fetch api    -------------------- heroku api ------------------------------
 let url = `https://dunzo-clone-masai.herokuapp.com/grocery`;
 async function FetchApi(){
     try {

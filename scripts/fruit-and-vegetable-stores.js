@@ -132,7 +132,7 @@
 
 
 
-//fetch api   ---------------------- AWS Api ----------------------------------
+//fetch api   ---------------------- heroku Api ----------------------------------
 let url = `https://dunzo-clone-masai.herokuapp.com/fruit`;
 async function FetchApi(){
     try {
