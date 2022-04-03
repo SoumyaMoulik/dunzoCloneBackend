@@ -63,7 +63,7 @@ document.getElementById("logo").addEventListener("click", hello);
         }
 
 //fetch api    -------------------- aws api ------------------------------
-let url = `http://ec2-35-89-65-29.us-west-2.compute.amazonaws.com:5000/u`;
+let url = `https://dunzo-clone-masai.herokuapp.com/grocery`;
 async function FetchApi(){
     try {
         

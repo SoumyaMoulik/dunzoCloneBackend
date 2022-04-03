@@ -133,7 +133,7 @@
 
 
 //fetch api   ---------------------- AWS Api ----------------------------------
-let url = `http://ec2-54-218-106-180.us-west-2.compute.amazonaws.com:2345/u`;
+let url = `https://dunzo-clone-masai.herokuapp.com/fruit`;
 async function FetchApi(){
     try {
         
