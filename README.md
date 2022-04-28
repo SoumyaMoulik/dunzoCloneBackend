@@ -43,7 +43,7 @@ Upon hitting the endpoints one can understand the required fields for the docume
 
 ![Checkout page]()
 
-* Try For Free Page -->)
+* Try For Free Page -->
 
 ## How to run the Project
 * Click on the deployed link
